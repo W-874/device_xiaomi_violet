@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_violet-eng \
-    derp_violet-userdebug \
-    derp_violet-user
+    aosp_violet-eng \
+    aosp_violet-userdebug \
+    aosp_violet-user
